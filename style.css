@@ -1,0 +1,77 @@
+*{
+    
+    font-family: 'Roboto Serif', serif;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    font-weight: bold;
+}
+header{
+    position: sticky;
+    top: 0;
+    background-color: rgba(255, 255, 255, 0.9) ;
+}
+.logo{
+    width: 200px;
+    /* height: 200px; */
+    /* margin-left: 300px; */
+}
+
+.aziz{
+    /* width: 70%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 279px;
+}
+
+.nav a{
+    font-size: .9375rem;
+    font-weight: 400;
+    text-decoration: none;
+    font-weight: normal;
+    color: #747474;;
+
+}
+
+
+.nav li {
+    list-style: none;
+}
+
+#home{
+    color: #00b39b;
+}
+.doc{
+    display: flex;
+    justify-content: center;
+    margin-top: 65PX;
+}
+.about-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1{
+    font-size: 35px;
+}
+
+.css-span{
+    color: #00b39b;
+}
+.ph{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    line-height: 140%;
+
+}
+#pph{
+    margin-left: 10%;
+}
